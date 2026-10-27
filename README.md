@@ -6,9 +6,9 @@ Folders (copy both into C:\xampp\htdocs\)
   mscareadmin\    clinic admin site (unchanged)
 
 Open
-  Patient site : http://localhost/mscare_users/        (Log in button is in the top bar)
+  Patient site : http://localhost/mscare/        (Log in button is in the top bar)
   Admin site   : http://localhost/mscareadmin/login.php
-  DB check     : http://localhost/mscare_users/check-db.php
+  DB check     : http://localhost/mscare/check-db.php
 
 Accounts
   Patients register at register.php. Admin accounts live in the admins table (see database\seed.sql).
